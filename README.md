@@ -1,6 +1,6 @@
 [EN](README.md) | [简中](README_zh-CN.md)
 
-# **_Grasscutter-3.7-Super-detailed-construction-tutorial_**
+# **_Grasscutter-Super-detailed-construction-tutorial_**
 
 **_EN-US:_**
 > - This is a super detailed grasscutter building tutorial, including files, tutorials, bug checks, etc
