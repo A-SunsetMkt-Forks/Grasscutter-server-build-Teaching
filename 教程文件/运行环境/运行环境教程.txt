@@ -1,9 +1,0 @@
-运行环境为全版本通用，分别为MongoDB数据库（用于存储玩家数据，比如你账号背包里有什么东西，你有什么角色之类的），跟java18（为Grasscutter提供运行支持，不然你打不开Grasscutter服务端的
-不要问其他版本的java能不能用了，按道理来说可以，但是大概率会不适配，出错等，建议使用java18
-使用方法：
-将此文件夹中的两个文件夹直接复制到"搭建测试地点"文件夹里的Dataserver文件夹中
-数据库是空的（全新）
-不建议在网上下载文件，这些是我自己做好的，如果是从网上下的我也不清楚，除了java18
-（感觉写的有点少，但是真的没啥写的了，之后再加吧）
-mongodb下载地址：https://www.mongodb.com/try/download/community
-java18下载地址：https://www.oracle.com/java/technologies/javase-jdk18-downloads.html
