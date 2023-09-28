@@ -1,0 +1,8 @@
+游戏文件均为国际服，游戏内容与国服相差不大（服装更大胆一些），而且体积减小了很多
+3.7下载链接：https://d3ln624mszu7ty.cloudfront.net/client_app/download/pc_zip/20230513200104_2odHBzbUAP5IOIvE/GenshinImpact_3.7.0.zip
+3.6下载链接：https://d3ln624mszu7ty.cloudfront.net/client_app/download/pc_zip/20230331200258_xR748JQdRJ19pQH0/GenshinImpact_3.6.0.zip
+3.5下载链接：https://d3ln624mszu7ty.cloudfront.net/client_app/download/pc_zip/20230220120928_iIYV9krGiWL06eeB/GenshinImpact_3.5.0.zip
+=============================================================================================
+3.7中文语音包下载链接：https://d3ln624mszu7ty.cloudfront.net/client_app/download/pc_zip/20230513200104_2odHBzbUAP5IOIvE/Audio_Chinese_3.7.0.zip
+3.6中文语音包下载链接：https://d3ln624mszu7ty.cloudfront.net/client_app/download/pc_zip/20230331200258_xR748JQdRJ19pQH0/Audio_Chinese_3.6.0.zip
+3.5中文语音包下载链接：https://d3ln624mszu7ty.cloudfront.net/client_app/download/pc_zip/20230220120928_iIYV9krGiWL06eeB/Audio_Chinese_3.5.0.zip

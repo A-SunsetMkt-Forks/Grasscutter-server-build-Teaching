@@ -1,0 +1,2 @@
+3.7包体下载链接 https://autopatchcnws.yuanshen.com/client_app/download/pc_zip/20230513200250_hFVOC1wXPDVnzH87/YuanShen_3.7.0.zip 
+3.7中文语音包下载链接（下好在包体根目录解压） https://autopatchcnws.yuanshen.com/client_app/download/pc_zip/20230513200250_hFVOC1wXPDVnzH87/Audio_Chinese_3.7.0.zip

@@ -1,0 +1,4 @@
+（我的一键端用的是4.0.1）4.0.1包体下载链接https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20230821151113_kRtiSWdMasWNheoV/YuanShen_4.0.1.zip
+（我的一键端用的是4.0.1）4.0.1中文语音包下载链接（下好在包体根目录解压）https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20230821151113_kRtiSWdMasWNheoV/Audio_Chinese_4.0.1.zip
+4.0包体下载链接https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20230804185703_R1La3H9xIH1hBiHJ/YuanShen_4.0.0.zip
+4.0中文语音包下载链接（下好在包体根目录解压）https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20230804185703_R1La3H9xIH1hBiHJ/Audio_Chinese_4.0.0.zip
