@@ -1,0 +1,3 @@
+文件全部来自官方github，链接https://github.com/Grasscutters/Grasscutter/releases（如果上不去建议挂梯子到外国（比如使用steam++）
+如果向要更新快的核心可以更换github分支，切换到dev分支，然后编译
+proto可以前往yuukips的gitlab（链接https://gitlab.com/YuukiPS/GC-Proto）
