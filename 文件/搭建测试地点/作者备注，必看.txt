@@ -1,0 +1,8 @@
+如果你不想手动输入指令注册，那就去../grasscutter文件夹中打开config.json（用记事本打开)
+然后找到autoCreate这一个，将后面的false改为true（自动注册），然后进游戏账号密码随便输就好
+
+如果进游戏提示没有权限就把mongodb数据库删了，然后重新复制一份，再去config.json把defaultPermissions后面的[]中加入"*"注意必须是英文的双引号跟星号
+
+如果出现带有443的报错去config.json将bindPort后面的443改为11451，注意，改完之后你的代理软件端口号也需要改成11451，而不是443
+
+也可以用我改好的config，里面都改好了
