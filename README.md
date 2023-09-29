@@ -1,4 +1,4 @@
-[简中](README.md) | [EN](README_en-US.md)
+[简中](README.md) | [EN](README_en-US..md)
 # 
 **_grasscutter某动漫游戏sf超详细搭建教程_**
 
