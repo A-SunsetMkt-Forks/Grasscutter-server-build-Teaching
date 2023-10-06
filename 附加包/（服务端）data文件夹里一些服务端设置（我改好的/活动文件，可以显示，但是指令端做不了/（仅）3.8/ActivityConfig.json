@@ -1,0 +1,50 @@
+[
+  {
+    "activityId": 5140,
+    "activityType": 0,
+    "scheduleId": 1,
+    "meetCondList": [],
+    "beginTime": "2000-01-01T00:00:00",
+    "endTime": "2099-12-31T23:59:59"
+  },
+  {
+    "activityId": 5141,
+    "activityType": 0,
+    "scheduleId": 2,
+    "meetCondList": [],
+    "beginTime": "2000-01-01T00:00:00",
+    "endTime": "2099-12-31T23:59:59"
+  },
+  {
+    "activityId": 5142,
+    "activityType": 0,
+    "scheduleId": 3,
+    "meetCondList": [],
+    "beginTime": "2000-01-01T00:00:00",
+    "endTime": "2099-12-31T23:59:59"
+  },
+  {
+    "activityId": 5145,
+    "activityType": 0,
+    "scheduleId": 4,
+    "meetCondList": [],
+    "beginTime": "2000-01-01T00:00:00",
+    "endTime": "2099-12-31T23:59:59"
+  },
+  {
+    "activityId": 5148,
+    "activityType": 0,
+    "scheduleId": 5,
+    "meetCondList": [],
+    "beginTime": "2000-01-01T00:00:00",
+    "endTime": "2099-12-31T23:59:59"
+  },
+  {
+    "activityId": 5119,
+    "activityType": 0,
+    "scheduleId": 6,
+    "meetCondList": [],
+    "beginTime": "2000-01-01T00:00:00",
+    "endTime": "2099-12-31T23:59:59"
+  }
+]

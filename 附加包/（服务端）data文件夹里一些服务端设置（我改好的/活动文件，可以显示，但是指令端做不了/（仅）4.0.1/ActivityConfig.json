@@ -1,0 +1,74 @@
+[
+  {
+    "activityId": 5148,
+    "activityType": 0,
+    "scheduleId": 1,
+    "meetCondList": [],
+    "beginTime": "2000-01-01T00:00:00",
+    "endTime": "2099-12-31T23:59:59"
+  },
+  {
+    "activityId": 5119,
+    "activityType": 0,
+    "scheduleId": 2,
+    "meetCondList": [],
+    "beginTime": "2000-01-01T00:00:00",
+    "endTime": "2099-12-31T23:59:59"
+  },
+  {
+    "activityId": 5147,
+    "activityType": 0,
+    "scheduleId": 3,
+    "meetCondList": [],
+    "beginTime": "2000-01-01T00:00:00",
+    "endTime": "2099-12-31T23:59:59"
+  },
+  {
+    "activityId": 5149,
+    "activityType": 0,
+    "scheduleId": 4,
+    "meetCondList": [],
+    "beginTime": "2000-01-01T00:00:00",
+    "endTime": "2099-12-31T23:59:59"
+  },
+  {
+    "activityId": 5150,
+    "activityType": 0,
+    "scheduleId": 5,
+    "meetCondList": [],
+    "beginTime": "2000-01-01T00:00:00",
+    "endTime": "2099-12-31T23:59:59"
+  },
+  {
+    "activityId": 5151,
+    "activityType": 0,
+    "scheduleId": 6,
+    "meetCondList": [],
+    "beginTime": "2000-01-01T00:00:00",
+    "endTime": "2099-12-31T23:59:59"
+  },
+  {
+    "activityId": 5153,
+    "activityType": 0,
+    "scheduleId": 7,
+    "meetCondList": [],
+    "beginTime": "2000-01-01T00:00:00",
+    "endTime": "2099-12-31T23:59:59"
+  },
+  {
+    "activityId": 5154,
+    "activityType": 0,
+    "scheduleId": 8,
+    "meetCondList": [],
+    "beginTime": "2000-01-01T00:00:00",
+    "endTime": "2099-12-31T23:59:59"
+  },
+  {
+    "activityId": 5158,
+    "activityType": 0,
+    "scheduleId": 9,
+    "meetCondList": [],
+    "beginTime": "2000-01-01T00:00:00",
+    "endTime": "2099-12-31T23:59:59"
+  }
+]

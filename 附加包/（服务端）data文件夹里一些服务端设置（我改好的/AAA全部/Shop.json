@@ -1,0 +1,230 @@
+[
+  {
+    "shopId": 900,
+    "items": [
+      {
+        "goodsId": 900223,
+        "goodsItem": {
+          "id": 223,
+          "count": 1
+        },
+        "costItemList": [],
+        "buyLimit": 9999,
+        "beginTime": 1640966400,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 61,
+        "hcoin": 160,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "shopRefreshParam": 1
+      },
+      {
+        "goodsId": 900224,
+        "goodsItem": {
+          "id": 224,
+          "count": 1
+        },
+        "costItemList": [],
+        "buyLimit": 9999,
+        "beginTime": 1640966400,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 61,
+        "hcoin": 160,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "shopRefreshParam": 1
+      },
+      {
+        "goodsId": 900225,
+        "goodsItem": {
+          "id": 223,
+          "count": 1
+        },
+        "costItemList": [
+          {
+            "id": 222,
+            "count": 75
+          }
+        ],
+        "buyLimit": 10,
+        "beginTime": 1640966400,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 61,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "shopRefreshParam": 1
+      },
+      {
+        "goodsId": 900226,
+        "goodsItem": {
+          "id": 224,
+          "count": 1
+        },
+        "costItemList": [
+          {
+            "id": 223,
+            "count": 5
+          }
+        ],
+        "buyLimit": 9999,
+        "beginTime": 1640966400,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 61,
+        "refreshType": "SHOP_REFRESH_WEEKLY",
+        "shopRefreshParam": 1
+      },
+      {
+        "goodsId": 900227,
+        "goodsItem": {
+          "id": 224,
+          "count": 1
+        },
+        "costItemList": [
+          {
+            "id": 222,
+            "count": 75
+          }
+        ],
+        "buyLimit": 10,
+        "beginTime": 1640966400,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 61,
+        "refreshType": "SHOP_REFRESH_WEEKLY",
+        "shopRefreshParam": 1
+      },
+      {
+        "goodsId": 900228,
+        "goodsItem": {
+          "id": 223,
+          "count": 1
+        },
+        "costItemList": [
+          {
+            "id": 223,
+            "count": 5
+          }
+        ],
+        "buyLimit": 9999,
+        "beginTime": 1640966400,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 61,
+        "refreshType": "SHOP_REFRESH_WEEKLY",
+        "shopRefreshParam": 1
+      }
+    ]
+  },
+  {
+    "shopId": 902,
+    "items": [
+      {
+        "goodsId": 902223,
+        "goodsItem": {
+          "id": 223,
+          "count": 1
+        },
+        "costItemList": [],
+        "buyLimit": 9999,
+        "beginTime": 1640966400,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 61,
+        "hcoin": 160,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "shopRefreshParam": 1
+      },
+      {
+        "goodsId": 902224,
+        "goodsItem": {
+          "id": 224,
+          "count": 1
+        },
+        "costItemList": [],
+        "buyLimit": 9999,
+        "beginTime": 1640966400,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 61,
+        "hcoin": 160,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "shopRefreshParam": 1
+      }
+    ]
+  },
+  {
+    "shopId": 903,
+    "items": [
+      {
+        "goodsId": 903223,
+        "goodsItem": {
+          "id": 223,
+          "count": 1
+        },
+        "costItemList": [],
+        "buyLimit": 9999,
+        "beginTime": 1640966400,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 61,
+        "hcoin": 160,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "shopRefreshParam": 1
+      },
+      {
+        "goodsId": 903224,
+        "goodsItem": {
+          "id": 224,
+          "count": 1
+        },
+        "costItemList": [],
+        "buyLimit": 9999,
+        "beginTime": 1640966400,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 61,
+        "hcoin": 160,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "shopRefreshParam": 1
+      }
+    ]
+  },
+  {
+    "shopId": 1001,
+    "items": [
+      {
+        "goodsId": 1001223,
+        "goodsItem": {
+          "id": 223,
+          "count": 1
+        },
+        "costItemList": [],
+        "buyLimit": 9999,
+        "beginTime": 1640966400,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 61,
+        "hcoin": 160,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "shopRefreshParam": 1
+      },
+      {
+        "goodsId": 1001224,
+        "goodsItem": {
+          "id": 224,
+          "count": 1
+        },
+        "costItemList": [],
+        "buyLimit": 9999,
+        "beginTime": 1640966400,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 61,
+        "hcoin": 160,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "shopRefreshParam": 1
+      }
+    ]
+  }
+]
