@@ -1,10 +1,9 @@
 <!--   my-icons -->
 <p align="center">
-    <a href="https://github.com/Gaobaiawa/Gaobaiawa"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
-    <a href="https://github.com/Gaobaiawa/Gaobaiawa/graphs/contributors"><img src="https://img.shields.io/github/contributors/Gaobaiawa/Gaobaiawa?color=blue"></a>
-    <a href="https://github.com/Gaobaiawa/Gaobaiawa/stargazers"><img src="https://img.shields.io/github/stars/Gaobaiawa/Gaobaiawa.svg?logo=github"></a>
-    <a href="https://github.com/Gaobaiawa/Gaobaiawa/network/members"><img src="https://img.shields.io/github/forks/Gaobaiawa/Gaobaiawa.svg?color=blue&logo=github"></a>
+    <a href="https://github.com/Gaobaiawa/Grasscutter-Super-detailed-construction-tutorial"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/Gaobaiawa/Grasscutter-Super-detailed-construction-tutorial/graphs/contributors"><img src="https://img.shields.io/github/contributors/Gaobaiawa/Grasscutter-Super-detailed-construction-tutorial?color=blue"></a>
+    <a href="https://github.com/Gaobaiawa/Grasscutter-Super-detailed-construction-tutorial/stargazers"><img src="https://img.shields.io/github/stars/Grasscutter-Super-detailed-construction-tutorial/Gaobaiawa.svg?logo=github"></a>
+    <a href="https://github.com/Gaobaiawa/Grasscutter-Super-detailed-construction-tutorial/network/members"><img src="https://img.shields.io/github/forks/Grasscutter-Super-detailed-construction-tutorial/Grasscutter-Super-detailed-construction-tutorial.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Gaobaiawa.Gaobaiawa" alt="visitors"/>   
 </p>
 
