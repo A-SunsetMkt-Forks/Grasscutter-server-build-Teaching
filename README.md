@@ -2,7 +2,7 @@
 <p align="center">
     <a href="https://github.com/Gaobaiawa/Grasscutter-Super-detailed-construction-tutorial"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/Gaobaiawa/Grasscutter-Super-detailed-construction-tutorial/graphs/contributors"><img src="https://img.shields.io/github/contributors/Gaobaiawa/Grasscutter-Super-detailed-construction-tutorial?color=blue"></a>
-https://img.shields.io/github/stars/Gaobaiawa/Grasscutter-Super-detailed-construction-tutorialimg｜https://github.com/Gaobaiawa/Grasscutter-Super-detailed-construction-tutorial/stargazers
+<https://img.shields.io/github/stars/Gaobaiawa/Grasscutter-Super-detailed-construction-tutorialimg><https://github.com/Gaobaiawa/Grasscutter-Super-detailed-construction-tutorial/stargazers>
     <a href="https://github.com/Gaobaiawa/Grasscutter-Super-detailed-construction-tutorial/network/members"><img src="https://img.shields.io/github/forks/Grasscutter-Super-detailed-construction-tutorial/Grasscutter-Super-detailed-construction-tutorial.svg?color=blue&logo=github">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Gaobaiawa.Gaobaiawa" alt="visitors"/>   
 </p>
