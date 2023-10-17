@@ -1,11 +1,7 @@
-<!--   my-icons -->
-<p align="center">
-    <a href="https://github.com/Gaobaiawa/Grasscutter-Super-detailed-construction-tutorial"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/Gaobaiawa/Grasscutter-Super-detailed-construction-tutorial/graphs/contributors"><img src="https://img.shields.io/github/contributors/Gaobaiawa/Grasscutter-Super-detailed-construction-tutorial?color=blue"></a>
-<https://img.shields.io/github/stars/Gaobaiawa/Grasscutter-Super-detailed-construction-tutorialimg><https://github.com/Gaobaiawa/Grasscutter-Super-detailed-construction-tutorial/stargazers>
-    <a href="https://github.com/Gaobaiawa/Grasscutter-Super-detailed-construction-tutorial/network/members"><img src="https://img.shields.io/github/forks/Grasscutter-Super-detailed-construction-tutorial/Grasscutter-Super-detailed-construction-tutorial.svg?color=blue&logo=github">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Gaobaiawa.Gaobaiawa" alt="visitors"/>   
-</p>
+[![by-kcn-GitHub license](https://img.shields.io/github/license/Gaobaiawa/Grasscutter-Super-detailed-construction-tutorial)](https://github.com/Gaobaiawa/Grasscutter-Super-detailed-construction-tutorial/blob/main/LICENSE) 
+ [![GitHub stars](https://img.shields.io/github/stars/Gaobaiawa/Grasscutter-Super-detailed-construction-tutorial)](https://github.com/Gaobaiawa/Grasscutter-Super-detailed-construction-tutorial/stargazers) 
+ [![Github All Releases](https://img.shields.io/github/downloads/Gaobaiawa/Grasscutter-Super-detailed-construction-tutorial/total.svg)](https://github.com/Gaobaiawa/Grasscutter-Super-detailed-construction-tutorial/releases) 
+ [![GitHub release](https://img.shields.io/github/v/release/Gaobaiawa/Grasscutter-Super-detailed-construction-tutorial)](https://github.com/Gaobaiawa/Grasscutter-Super-detailed-construction-tutorial/releases/latest)
 
 [简中](README.md) | [EN](README_en-US..md)
 # 
