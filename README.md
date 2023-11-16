@@ -6,7 +6,7 @@
  [![GitHub release](https://img.shields.io/github/v/release/Gaobaiawa/Grasscutter-server-build-Teaching)](https://github.com/Gaobaiawa/Grasscutter-server-build-Teaching/releases/latest)
     <a href="https://github.com/Gaobaiawa/Grasscutter-server-build-Teaching/network/members"><img src="https://img.shields.io/github/forks/Gaobaiawa/Grasscutter-server-build-Teaching.svg?color=blue&logo=github"></a>
 
-**_QQ群158248452
+**_QQ群158248452_**
 
 [简中](README.md) | [EN](README_en-US..md)
 # 
