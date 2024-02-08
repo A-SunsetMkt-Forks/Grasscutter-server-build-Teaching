@@ -1,9 +1,10 @@
 # Grasscutter-server-build-Teaching
 
-[![by-kcn-GitHub license](https://img.shields.io/github/license/Gaobaiawa/Grasscutter-server-build-Teaching)](https://github.com/Gaobaiawa/Grasscutter-server-build-Teaching/blob/main/LICENSE) 
+[![Github license](https://img.shields.io/github/license/Gaobaiawa/Grasscutter-server-build-Teaching)](https://github.com/Gaobaiawa/Grasscutter-server-build-Teaching/blob/main/LICENSE) 
  [![GitHub stars](https://img.shields.io/github/stars/Gaobaiawa/Grasscutter-server-build-Teachingl)](https://github.com/Gaobaiawa/Grasscutter-server-build-Teaching/stargazers) 
  [![Github All Releases](https://img.shields.io/github/downloads/Gaobaiawa/Grasscutter-server-build-Teaching/total.svg)](https://github.com/Gaobaiawa/Grasscutter-server-build-Teaching/releases) 
  [![GitHub release](https://img.shields.io/github/v/release/Gaobaiawa/Grasscutter-server-build-Teaching)](https://github.com/Gaobaiawa/Grasscutter-server-build-Teaching/releases/latest)
+ [![Chat](https://img.shields.io/badge/Join-QQ%E9%A2%91%E9%81%93-red?logo=tencent-qq&logoColor=red)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=4YqfSkhATOaWZbjoem110ud1AY6X21LZ&authKey=%2FPi%2FZlO9PheFWbt9fGYsZCapV41CBDMfEXdFjiYWLaW0HntfAsu%2FZdPmubskYX3x&noverify=0&group_code=158248452)
     <a href="https://github.com/Gaobaiawa/Grasscutter-server-build-Teaching/network/members"><img src="https://img.shields.io/github/forks/Gaobaiawa/Grasscutter-server-build-Teaching.svg?color=blue&logo=github"></a>
 
 **_QQ群158248452_**
