@@ -48,4 +48,6 @@
 > - 对服务端configjson文件的一些说明
 > - 懒得写了，还有几个没啥用的
 
+[发布页面](https://github.com/Gaobaiawa/Grasscutter-server-build-Teaching/releases)｜[QQ群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=1nUlmbSaDd8O79kz1WB4jlq7Vw7-X5gQ&authKey=xZK1UjTAt50DVVVzFbS5vSo5hYqUiynlv6VuaRu%2FbpMCYeI5x%2FvhWwBJhduXm6Ah&noverify=0&group_code=158248452)｜[123云盘](https://www.123pan.com/s/HoqUVv-U7SBA)
+
 by - Gaobaiawa
