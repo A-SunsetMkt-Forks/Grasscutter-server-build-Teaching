@@ -41,13 +41,14 @@
 > - 指令生成器 by-jie65535
 > - 各种插件 by-jie65535等
 > - 全女角色放入尘歌壶教程（等文件）瞎找的，我也不知道谁的
-> - 4.0挂
+> - 4.0科技
 > - 4.0安卓自定义ip客户端+热更新核心
-> - 炸服器
+> - 炸服器（其实就是ddos…）
 > - 改角色模型（mod）
-> - 对服务端configjson文件的一些说明
+> - 对服务端config.json文件的一些说明
 > - 懒得写了，还有几个没啥用的
 
+**如何下载？**
 [发布页面](https://github.com/Gaobaiawa/Grasscutter-server-build-Teaching/releases)｜[QQ群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=1nUlmbSaDd8O79kz1WB4jlq7Vw7-X5gQ&authKey=xZK1UjTAt50DVVVzFbS5vSo5hYqUiynlv6VuaRu%2FbpMCYeI5x%2FvhWwBJhduXm6Ah&noverify=0&group_code=158248452)｜[123云盘](https://www.123pan.com/s/HoqUVv-U7SBA)
 
 by - Gaobaiawa
